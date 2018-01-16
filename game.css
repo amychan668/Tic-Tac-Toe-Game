@@ -1,0 +1,18 @@
+h1 {text-align:center;}
+.head {position: absolute; top:5px; right:5px;}
+.welcome {height:250px; width: 250px; float:left; padding-left:50px;}
+.board {height:250px; width:250px; margin:0 auto;}
+td { text-overflow:ellipsis;}
+table {border-collapse:separate; border-spacing:0px; table-layout:fixed; width:250px;}
+#box1 {border-bottom:2px solid red; border-right:2px solid red; }
+#box2 {border-bottom:2px solid red; border-right:2px solid red; border-left:2px solid red; }
+#box3 {border-bottom:2px solid red; border-left: 2px solid red; }
+#box4 {border-bottom:2px solid red; border-right:2px solid red; border-top:2px solid red; }
+#box5 {border-bottom:2px solid red; border-left: 2px solid red; border-right:2px solid red; border-top:2px solid red;}
+#box6 {border-bottom:2px solid red; border-left: 2px solid red; border-top:2px solid red;}
+#box7 {border-top:2px solid red; border-right:2px solid red;}
+#box8 {border-top:2px solid red; border-left: 2px solid red; border-right: 2px solid red;}
+#box9 {border-top:2px solid red; border-left: 2px solid red;}
+.box {height:125px; text-align:center; font-weight: 900; font-size:200%;}
+body {background-color:lightblue;}
+#input {font-size:150%; width:400px;}
